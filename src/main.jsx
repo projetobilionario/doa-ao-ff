@@ -1,6 +1,5 @@
 import React,{useState}from"react";
 import{createRoot}from"react-dom/client";
-import"./styles.css";
 
 const I={hero:"/assets/ff-drop.svg",card1:"/assets/ff-drop.svg",card2:"/assets/ff-chroma.svg",card3:"/assets/ff-anniversary.svg"};
 
